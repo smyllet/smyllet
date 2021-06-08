@@ -14,9 +14,8 @@ Etudiant en BTS SIO à l’ENC Bessières à Paris, j’ai pour projet de deveni
 - HTML/CSS
 
 #### 📌 En cours
-- Je travaille actuellement sur [Disney Pins DataBase](https://github.com/smyllet/DisneyPinsDataBase), il s'agit d'un projet pour une épreuve du BTS SIO. Ce projet consiste à développer une API répertoriant l'intégralité des Pins provenant des différents parcs Disneyland.
-- En parallèle j'étudie le fonctionnement de [Docker](https://www.docker.com/) pour pouvoir l'utiliser dans mes différents projets en cours.
+- Je travaille actuellement sur la mise à jour de mon bot Discord, [Teku](https://github.com/smyllet/teku).
 
 #### 📫 Contact
-- Mail : [smyllet@dynivers.fr](mailto:smyllet@dynivers.fr?subject=[GitHub-Contact]%20)
+- Mail : [bryan.prolong@outlook.fr](mailto:bryan.prolong@outlook.fr?subject=[GitHub-Contact]%20)
 - Discord : smyllet#3340
